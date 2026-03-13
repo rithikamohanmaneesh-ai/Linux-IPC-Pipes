@@ -103,6 +103,7 @@ void client(int wfd, int rfd) {
 
 ## OUTPUT
 
+<img width="955" height="910" alt="image" src="https://github.com/user-attachments/assets/d9e55aec-6ac1-4bed-b95e-778d95ebbf69" />
 
 
 
@@ -201,6 +202,7 @@ void client() {
 
 
 ## OUTPUT
+<img width="468" height="305" alt="image" src="https://github.com/user-attachments/assets/76d0d440-f77f-418b-9de8-cde13412c74c" />
 
 
 # RESULT:
